@@ -1,8 +1,8 @@
+#!/usr/bin/python
 # Author: Francesco Berghi
 # License: GNU GPLv3
 # Description: this script is part of the d-diot project.
 
-#!/usr/bin/python
 
 ############################# CONFIG ########################################################
 
